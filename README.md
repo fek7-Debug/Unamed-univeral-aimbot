@@ -53,8 +53,9 @@ A premium interface script, advanced rendering engines, and combat assistance 10
 Copia y pega el siguiente cargador en la barra de ejecución de tu exploit móvil / Copy and paste the following loader into your mobile exploit:
 
 ```lua
--- [[ UNAMED UNIVERSAL AIMBOT — LOADSTRING ]] --
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+-- [[ UNAMED UNIVERSAL AIMBOT — LOADSTRING RAW OFICIAL ]] --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fek7-Debug/Unamed-univeral-aimbot/refs/heads/main/script.lua"))()
+
 ```
 
 ---
